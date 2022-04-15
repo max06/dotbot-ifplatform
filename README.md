@@ -2,6 +2,7 @@
 
 Conditional execution of dotbot directives based on the local platform.
 
+## **Forked until fix is merged upstream!**
 
 ## Prerequisites
 This plugin requires [`dotbot`](https://github.com/anishathalye/dotbot) to be installed.
